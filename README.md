@@ -1,4 +1,4 @@
-# Language-Learner
+# Flash Card Language Learner
 Language Learner is a GUI made in Python using the Tkinter library which allows users to practice the top 100 most frequenced words in French. 
 
 # How It Works
