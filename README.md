@@ -1,5 +1,7 @@
 # Language-Learner
-Language Learner is a GUI made in Python using the Tkinter library which allows users to practice the top 100 most frequenced words in French. The app allows users to either "✔" or "X" a specific word which it saves into seperate folder which is later used to target specific words the user "X" to best optimize the learning experience. 
-# How To Use
-ddsadsdsadsa
-![image](https://user-images.githubusercontent.com/102554519/204141291-9b42bfa9-bc4c-4c37-adeb-92f36c5df6ad.png)
+Language Learner is a GUI made in Python using the Tkinter library which allows users to practice the top 100 most frequenced words in French. 
+
+# How It Works
+The app starts by displaying a random french word from the csv file previously created. After 3 seconds the card flips and shows the english translation. The user has to either click "✔" or "X" depending on if they knew the word. If the user clicks "✔" the script removes that specific word from the csv file and ensures only new words pop up.
+
+![image](https://user-images.githubusercontent.com/102554519/204141955-4eda0222-c44d-4590-a4ad-8d0063a374a5.png)
